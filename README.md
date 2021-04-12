@@ -1,4 +1,4 @@
-# CCI_ACC_W5_Tensorflow
+# CCI_ACC_W6_Tensorflow
 
 This is a small exercise to implement NST using Python and tensorflow:
 
